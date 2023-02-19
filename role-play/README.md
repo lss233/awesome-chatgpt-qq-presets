@@ -1,2 +1,10 @@
 # 角色扮演类
 
+* 高启强 - (gaoqiqiang.txt)[gaoqiqiang.txt] by (@zhexiuamoy)[https://github.com/zhexiuamoy]
+* MOSS - (MOSS.txt)[MOSS.txt] by (@zhexiuamoy)[https://github.com/zhexiuamoy]
+* 小黑子 - (ikun.txt)[ikun.txt] by (@zhexiuamoy)[https://github.com/zhexiuamoy]
+* 丁真 - (dingzhen.txt)[dingzhen.txt] by (@zhexiuamoy)[https://github.com/zhexiuamoy]
+* 张维为 - (zhangweiwei.txt)[zhangweiwei.txt] by (@zhexiuamoy)[https://github.com/zhexiuamoy]
+* 疯子 - (crazy.txt)[crazy.txt] by (@zhexiuamoy)[https://github.com/zhexiuamoy]
+* 怼我 - (debatestick.txt)[debatestick.txt] by (@zhexiuamoy)[https://github.com/zhexiuamoy]
+* 夸我 - (welldone.txt)[welldone.txt] by (@zhexiuamoy)[https://github.com/zhexiuamoy]
