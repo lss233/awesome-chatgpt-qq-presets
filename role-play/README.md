@@ -8,3 +8,4 @@
 * 疯子 - [crazy.txt](crazy.txt) by [@zhexiuamoy](https://github.com/zhexiuamoy)
 * 怼我 - [debatestick.txt](debatestick.txt) by [@zhexiuamoy](https://github.com/zhexiuamoy)
 * 夸我 - [welldone.txt](welldone.txt) by [@zhexiuamoy](https://github.com/zhexiuamoy)
+* 一个还算可以的丁真 - [DJ.txt](DJ.txt) by [@CshinDsuitL](https://github.com/CshinDsuitL)
