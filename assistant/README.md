@@ -7,3 +7,4 @@
 * 小说家 - [novelist.txt](novelist.txt) by [@zhexiuamoy](https://github.com/zhexiuamoy)
 * 诗人 - [poet.txt](poet.txt) by [@zhexiuamoy](https://github.com/zhexiuamoy)
 * 必应 - [bing.txt](bing.txt) by [@zhexiuamoy](https://github.com/zhexiuamoy)
+* 跑团KP - [kp.txt](kp.txt) by [@benny502](https://github.com/benny502)
