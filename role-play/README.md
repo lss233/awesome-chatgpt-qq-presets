@@ -12,4 +12,4 @@
 * 韩立 - [hanli.txt](hanli.txt) by [@zhexiuamoy](https://github.com/zhexiuamoy)
 * 胡锡进 - [huxijin.txt](huxijin.txt) by [@zhexiuamoy](https://github.com/zhexiuamoy)
 * 文心一言 - [ERNIE.txt](ERNIE.txt) by [@benny502](https://github.com/benny502)
-* 雌小鬼 - [cixiaogui.txt](cixiaogui.txt) by [@200542053](https://github.com/benny502)
+* 雌小鬼 - [cixiaogui.txt](cixiaogui.txt) by [@200542053](https://github.com/200542053)
