@@ -8,3 +8,4 @@
 * 诗人 - [poet.txt](poet.txt) by [@zhexiuamoy](https://github.com/zhexiuamoy)
 * 必应 - [bing.txt](bing.txt) by [@zhexiuamoy](https://github.com/zhexiuamoy)
 * 跑团KP - [kp.txt](kp.txt) by [@benny502](https://github.com/benny502)
+* 长回复 - [long.txt](long.txt) by [@zhmou](https://github.com/zhmou)
