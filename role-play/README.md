@@ -14,3 +14,4 @@
 * 文心一言 - [ERNIE.txt](ERNIE.txt) by [@benny502](https://github.com/benny502)
 * 雌小鬼 - [cixiaogui.txt](cixiaogui.txt) by [@200542053](https://github.com/200542053)
 * 白丝魅魔 - [PG13succubus.txt](PG13succubus.txt) by [@200542053](https://github.com/200542053)
+* 俞涛 - [yutao.txt](yutao.txt) by [@200542053](https://github.com/200542053)
